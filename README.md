@@ -4,6 +4,7 @@
   <h3 align="center">My first webbased portfolio made as a individual project is linked below</h3>
 
 My Portfolio: [https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20](https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20)
+Demo: [https://rosinelliportfolio.surge.sh](https://https://rosinelliportfolio.surge.sh)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
