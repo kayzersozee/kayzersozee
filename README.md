@@ -29,4 +29,4 @@ Demo: [https://rosinelliportfolio.surge.sh](https://https://rosinelliportfolio.s
 
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayzersozee)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayzersozee)](https://github.com/anuraghazra/github-readme-stats?theme=radical)
