@@ -27,6 +27,6 @@ Demo: [https://rosinelliportfolio.surge.sh](https://https://rosinelliportfolio.s
 - Git
 - Figma
 
-
+##
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayzersozee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats?theme=dark)
