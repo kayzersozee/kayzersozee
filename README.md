@@ -2,10 +2,9 @@
 
 ### Get to know me
 
-- 🔭 I’m currently working on ... different react projects and school 
-- 🌱 I’m currently learning ... Firebase
-- 👯 I’m looking to collaborate on ... Material UI
-- 🤔 I’m looking for help with ... Node.js
+- 🔭 I’m currently working on an application 
+- 🌱 I’m currently learning React
+- 🤔 I’m currently looking for an inernship in my education
 
 
 My Portfolio: [https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20](https://github.com/kayzersozee/nikolas_rosinelli_ip2_fe20)
@@ -29,4 +28,3 @@ Demo: [https://rosinelliportfolio.surge.sh](https://https://rosinelliportfolio.s
 
 ##
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kayzersozee&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats?theme=dark)
