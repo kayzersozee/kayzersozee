@@ -2,7 +2,7 @@
 
 ### Get to know me
 
-- 🔭 I’m currently working on an application 
+- 🔭 I’m currently working on a schoolproject
 - 🌱 I’m currently learning React
 - 🤔 I’m currently looking for an inernship in my education
 
